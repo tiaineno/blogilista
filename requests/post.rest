@@ -1,0 +1,9 @@
+POST http://localhost:3001/api/blogs
+Content-Type: application/json
+
+{
+  "title": "lojoijoil",
+  "author": "ollit",
+  "url": "https://github.com/tiaineno/blogilista",
+  "likes": 9999
+}
